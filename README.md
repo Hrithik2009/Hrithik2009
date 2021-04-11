@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hrithik2009
+- 👋 Hi, I’m Hrithik Pandet
 - 👀 I’m interested in pair learning
-- 🌱 I’m currently learning android development and django
-- 💞️ I’m looking to collaborate on android development
+- 🌱 I’m currently learning Android development and Django
+- 💞️ I’m looking to collaborate on Android development
 - 📫 Contact me at linkedin [https://www.linkedin.com/in/hrithik-pandey-258b0b1b3]
 
 <!---
