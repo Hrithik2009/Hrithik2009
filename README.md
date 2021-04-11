@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hrithik Pandet
+- 👋 Hi, I’m Hrithik Pandey
 - 👀 I’m interested in pair learning
 - 🌱 I’m currently learning Android development and Django
 - 💞️ I’m looking to collaborate on Android development
